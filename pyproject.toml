@@ -9,6 +9,8 @@ packages = [{include = "luma_dream_machine_api"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 requests = "^2.32.3"
+fastapi = "^0.111.0"
+python-multipart = "^0.0.9"
 
 
 [build-system]

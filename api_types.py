@@ -55,8 +55,8 @@ class GenerationItem:
 
 
 @dataclass
-class GenerateResponse:
-    pass  # Add appropriate fields if needed
+class GenerateResponseItem:
+    id: str
 
 
 @dataclass
