@@ -1,5 +1,5 @@
 ## Unofficial API
-This is an unofficial API based on Python and FastAPI. It currently supports generating videos, extend videos, get generations, etc.
+This is an unofficial Dream Machine API based on Python and FastAPI. It currently supports generating videos, extend videos, get generations, etc.
 
 ## Installation
 ```bash
