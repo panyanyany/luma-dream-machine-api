@@ -1,6 +1,10 @@
 ## Unofficial API
 This is an unofficial Dream Machine API based on Python and FastAPI. It currently supports generating videos, extend videos, get generations, etc.
 
+## Community
+
+https://discord.gg/rBqQz7EHrs
+
 ## Installation
 ```bash
 poetry install --no-root
